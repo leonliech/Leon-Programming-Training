@@ -20,4 +20,4 @@ function myFunc(n){
 };
 
 
-console.log(newNums);
+console.log(newNums)
